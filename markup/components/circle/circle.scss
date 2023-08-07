@@ -1,0 +1,11 @@
+.circle {
+    position: absolute;
+    width: 1040px;
+    height: 1040px;
+    border-radius: 1040px;
+    background: $primaryColor;
+    z-index: -1;
+    top: -140px;
+    right: -610px;
+    box-shadow: 0px 0px 0px 80px $shadowCircleOne, 0px 0px 0px 160px $shadowCircleTwo;
+}
